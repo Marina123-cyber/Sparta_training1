@@ -1,0 +1,38 @@
+{
+  "worker": [
+    {
+      "username": "Vasili",
+      "profession": "doctor",
+      "age": 30,
+      "colleagues": [
+        {
+          "username": "Masha",
+          "profession": "doctor",
+          "age": 30
+        },
+        {
+          "username": "Egor",
+          "profession": "pilot",
+          "age": 90
+        }
+      ]
+    },
+    {
+      "username": "Fedor",
+      "profession": "teacher",
+      "age": 60
+    },
+    {
+      "username": "Svetlana",
+      "profession": "nurse",
+      "age": 25,
+      "colleagues": [
+        {
+          "username": "Grigoriy",
+          "profession": "vet",
+          "age": 45
+        }
+      ]
+    }
+  ]
+}

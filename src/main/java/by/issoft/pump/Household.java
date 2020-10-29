@@ -30,11 +30,11 @@ public class Household {
                 switch (c.type) {
 
                     case "plant": {
-                        bucket += 80;
+                        bucket += 68;
                         break;
                     }
                     case "animal": {
-                        bucket += 55;
+                        bucket += 37;
                         break;
                     }
 

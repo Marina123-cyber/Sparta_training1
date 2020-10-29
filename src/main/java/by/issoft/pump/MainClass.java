@@ -1,13 +1,16 @@
 package by.issoft.pump;
 
 
-
-
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 
 public class MainClass {
 
+
+    public MainClass() {
+    }
 
     public static void main(String[] args) {
 
@@ -37,4 +40,5 @@ public class MainClass {
         }
         System.out.println("To supply the household you need " + totalWater + " of water");
     }
+
 }
