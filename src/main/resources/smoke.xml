@@ -1,0 +1,12 @@
+<?xml version="1.8" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1/0/dtd"
+
+<suite name = "SuperTestSuite">
+    <test name = "Store Test">
+
+        <parameter name "name" value "marina"></parameter>>
+        <classes>
+            <class name = "com.group2.tests.MyFirstTest"/>
+        </classes>
+    </test>
+</suite>
